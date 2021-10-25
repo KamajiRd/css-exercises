@@ -1,0 +1,16 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Odd{
+    background-color: lightpink; font-size: 20px;
+}
+.Odd.Cooler{
+    font-size: 30px;
+}
+#FirstID{
+    color: blue; font-size: 30px;
+}
+
+#SecondID{
+    background-color: chartreuse; font-weight: bold; font-size: 30px;
+}
